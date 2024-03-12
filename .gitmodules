@@ -16,3 +16,6 @@
 [submodule "vuetify-globolist"]
 	path = vuetify-globolist
 	url = git@github.com:ngramp/vuetify-globolist.git
+[submodule "glnext"]
+	path = glnext
+	url = git@github.com:ngramp/glnext.git
