@@ -10,3 +10,6 @@
 [submodule "quarkus-api"]
 	path = quarkus-api
 	url = git@github.com:ngramp/quarkus-api.git
+[submodule "globolistApi"]
+	path = globolistApi
+	url = git@github.com:ngramp/globolist-api.git
