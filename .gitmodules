@@ -13,3 +13,6 @@
 [submodule "globolistApi"]
 	path = globolistApi
 	url = git@github.com:ngramp/globolist-api.git
+[submodule "vuetify-globolist"]
+	path = vuetify-globolist
+	url = git@github.com:ngramp/vuetify-globolist.git
