@@ -1,9 +1,9 @@
 [submodule "go-htmx-gl"]
 	path = go-htmx-gl
-	url = ./go-htmx-gl
+	url = git@github.com:ngramp/go-htmx-gl.git
 [submodule "gl-source"]
 	path = gl-source
-	url = ./gl-source
+	url = git@github.com:ngramp/gl-source.git
 [submodule "quasar-globolist"]
 	path = quasar-globolist
-	url = ./quasar-globolist
+	url = git@github.com:ngramp/quasar-globolist.git
