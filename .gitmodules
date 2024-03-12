@@ -19,3 +19,6 @@
 [submodule "glnext"]
 	path = glnext
 	url = git@github.com:ngramp/glnext.git
+[submodule "GoHtmxGL"]
+	path = GoHtmxGL
+	url = git@github.com:ngramp/GoHtmxGL.git
