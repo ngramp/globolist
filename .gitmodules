@@ -1,0 +1,9 @@
+[submodule "go-htmx-gl"]
+	path = go-htmx-gl
+	url = ./go-htmx-gl
+[submodule "gl-source"]
+	path = gl-source
+	url = ./gl-source
+[submodule "quasar-globolist"]
+	path = quasar-globolist
+	url = ./quasar-globolist
