@@ -7,3 +7,6 @@
 [submodule "quasar-globolist"]
 	path = quasar-globolist
 	url = git@github.com:ngramp/quasar-globolist.git
+[submodule "quarkus-api"]
+	path = quarkus-api
+	url = git@github.com:ngramp/quarkus-api.git
